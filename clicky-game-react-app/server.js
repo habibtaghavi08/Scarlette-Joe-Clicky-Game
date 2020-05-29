@@ -19,6 +19,8 @@ routes(app);
 // Connect to the Mongo DB
 // TODO: rename the database to something that will relate to our app
 // mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/GoogleBooksDB");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost")
+
 
 // Start the API server and also last command to create server 
 app.listen(PORT, function() {
