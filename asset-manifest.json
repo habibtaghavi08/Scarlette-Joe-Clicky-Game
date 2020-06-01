@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Scarlette-Joe-Clicky-Game/static/css/main.8999b105.chunk.css",
+    "main.js": "/Scarlette-Joe-Clicky-Game/static/js/main.ffe459ec.chunk.js",
+    "main.js.map": "/Scarlette-Joe-Clicky-Game/static/js/main.ffe459ec.chunk.js.map",
+    "runtime-main.js": "/Scarlette-Joe-Clicky-Game/static/js/runtime-main.88efcb7a.js",
+    "runtime-main.js.map": "/Scarlette-Joe-Clicky-Game/static/js/runtime-main.88efcb7a.js.map",
+    "static/js/2.309b0860.chunk.js": "/Scarlette-Joe-Clicky-Game/static/js/2.309b0860.chunk.js",
+    "static/js/2.309b0860.chunk.js.map": "/Scarlette-Joe-Clicky-Game/static/js/2.309b0860.chunk.js.map",
+    "index.html": "/Scarlette-Joe-Clicky-Game/index.html",
+    "precache-manifest.0e49445a1fc69d4f0cd04464cde70a8e.js": "/Scarlette-Joe-Clicky-Game/precache-manifest.0e49445a1fc69d4f0cd04464cde70a8e.js",
+    "service-worker.js": "/Scarlette-Joe-Clicky-Game/service-worker.js",
+    "static/css/main.8999b105.chunk.css.map": "/Scarlette-Joe-Clicky-Game/static/css/main.8999b105.chunk.css.map",
+    "static/js/2.309b0860.chunk.js.LICENSE.txt": "/Scarlette-Joe-Clicky-Game/static/js/2.309b0860.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88efcb7a.js",
+    "static/js/2.309b0860.chunk.js",
+    "static/css/main.8999b105.chunk.css",
+    "static/js/main.ffe459ec.chunk.js"
+  ]
+}
